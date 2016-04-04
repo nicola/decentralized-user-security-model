@@ -1,6 +1,6 @@
 # Decentralized User Security Model
 
-> A set of principles that a federated/decentralized system should support
+> A set of principles that a federated/decentralized system should provide to their users
 
 --
 
