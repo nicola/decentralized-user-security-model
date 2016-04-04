@@ -4,21 +4,21 @@
 
 --
 
+0. We, the users
+1. Nothing is allowed, unless permitted (least privilege)
+2. Permissions are granted only after the user confirms (user confirmation)
+3. Identity is never exposed, unless permitted (explicit authentication)
+3. Data is always private by default, no one has access to it or parts of it, unless permitted (authorization)
+4. Hosts of the users' data, if any, have no access to any data, unless permitted (data encryption)
+5. No one can impersonate the user and operate in their behalf, unless permitted (explicit delegation)
+6. Users must know if their data has been altered (integrity)
 
-1. No one is allowed to do anything unless expicitly allowed by the user (least privilege)
-2. Always ask the user for permission
-3. 
+Asking for permission
 
-1. Our identity is never exposed
+7. User MUST be prompted when authenticating
+8. User MUST be prompted when authorizing access
+9. User MUST be prompted when delegating identity
+10. User MUST be prompted when delegating identity
 
-2. The identity of the user is never exposed, unless required (authentication)
-3. No data is publicive access to their data or parts of it to a service (authorization)
-4. Users MUST be asked what they storage provider, if any, is allowed to see (data encryption)
-5. Users MUST be asked if they want to allow someone to operate in their behalf (explicit delegation)
-6. Users MUST be asked who they want to share their data with (explicit confidentiality). 
-7. Users MUST know if their data has been altered (integrity)
-8. To be completed
-
-Ask
 
 > this is work in progress, we need a better verb than ask
