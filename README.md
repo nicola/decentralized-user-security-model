@@ -19,7 +19,6 @@ Asking for permission
 7. User MUST be prompted when authenticating
 8. User MUST be prompted when authorizing access
 9. User MUST be prompted when delegating identity
-10. User MUST be prompted when delegating identity
 
 
 > this is work in progress, we need a better verb than ask
