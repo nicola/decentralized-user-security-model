@@ -1,5 +1,7 @@
 # Decentralized Security Model
-A set of principles that a federated/decentralized system should support
+
+> A set of principles that a federated/decentralized system should support
+
 --
 
 We, the users.
