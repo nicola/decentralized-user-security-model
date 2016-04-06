@@ -4,7 +4,6 @@
 
 --
 
-0. We, the users
 1. Nothing is allowed, unless permitted (least privilege)
 2. Permissions are granted only after the user confirms (user confirmation)
 3. Identity is never exposed, unless permitted (explicit authentication)
