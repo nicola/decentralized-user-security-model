@@ -1,4 +1,4 @@
-# Decentralized User Security Model
+# Decentralized Identity and User Data Security Model
 
 > A set of principles that a federated/decentralized system should provide to their users
 
